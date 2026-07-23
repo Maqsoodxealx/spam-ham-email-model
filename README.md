@@ -1,6 +1,6 @@
-Spam/Ham Email Classification using Machine Learning and NLP
+# Spam/Ham Email Classification using Machine Learning and NLP
 A complete end-to-end Machine Learning project that classifies SMS/Email messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) and Scikit-learn.
-Project Overview
+## Project Overview
 Spam emails and SMS messages are one of the most common cybersecurity and communication problems. Automatically detecting unwanted messages helps users avoid scams, phishing attempts, and unnecessary advertisements.
 In this project, a complete Machine Learning pipeline was developed to classify messages as Spam or Ham. The model was trained in Google Colab using Python and deployed as an interactive Streamlit application developed in PyCharm.
 The project demonstrates the complete data science workflow, including:
